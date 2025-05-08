@@ -1,3 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Proyecto_GPSw</string>
+    <string name="app_name">Contador de Calorías</string>
+    <string name="scan_barcode">Escanear código</string>
+    <string name="manual_search">Búsqueda manual</string>
+    <string name="search_hint">Buscar alimento...</string>
+    <string name="calories_hint">Calorías</string>
+    <string name="save_button">Guardar</string>
+    <string name="fat_secret_api_key"></string>
+    <string name="daily_summary">Resumen del día</string>
 </resources>
